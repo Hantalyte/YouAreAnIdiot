@@ -20,6 +20,6 @@ More information can be found by looking at the comments in the JavaScript file.
 
 ## Usage
 
-Navigate to either the original JavaScript code file or the minimalist version, and copy it to your clipboard. Next, navigate to any Chrome URL and enter the console inside DevTools. All that's left to do is to paste the code, press enter, and enjoy the ride. :)
+Navigate to either the original JavaScript code file or the minimalist version, and copy it to your clipboard. Next, navigate to any Chrome URL and enter the console inside DevTools. All that's left to do is to paste the code, press enter, and enjoy the ride! :)
 
-Just a forewarning: if left unchecked, this might cause your computer to crash, so make sure to save everything beforehand!
+Just a forewarning: if left unchecked, this might cause your computer to crash, so please make sure to save everything beforehand.
